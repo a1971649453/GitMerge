@@ -10,5 +10,6 @@ public class Hi {
         System.out.println("hi fpr v3.0-增加功能 okok 测试冲突 ??? 2");
         System.out.println("hi fpr v3.0-增加功能 okok 测试冲突 ??? 2");
         System.out.println("hi fpr v3.0-增加功能 okok 测试冲突 ??? 2");
+        System.out.println("hi fpr v3.0-增加功能 okok 测试冲突 ??? hello300");
     }
 }
