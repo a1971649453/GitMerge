@@ -4,8 +4,8 @@ package com.hspedu.hsperp;
  * @author 金宗文
  * @version 1.0
  */
-public class HspErpApplication {
+public class Hi {
     public static void main(String[] args) {
-        System.out.println("HspErpApplication hello 3.0分支测试工作");
+        System.out.println("hi fpr v3.0-增加功能");
     }
 }
